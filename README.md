@@ -1,3 +1,12 @@
+<img width="939" alt="Screenshot 2025-04-27 022853" src="https://github.com/user-attachments/assets/6c5bf7c5-f713-4ca3-94ef-1405cccee1f6" />
+<img width="939" alt="Screenshot 2025-04-27 022929" src="https://github.com/user-attachments/assets/ddfd2075-2723-461b-a8f3-75716ac54fc8" />
+<img width="939" alt="Screenshot 2025-04-27 023014" src="https://github.com/user-attachments/assets/cb213ff1-891e-43bf-9a14-8fbb9db69356" />
+<img width="934" alt="Screenshot 2025-04-27 023050" src="https://github.com/user-attachments/assets/c1fb5056-88a9-4a79-8deb-49b21bccb32d" />
+<img width="937" alt="Screenshot 2025-04-27 023120" src="https://github.com/user-attachments/assets/464eb89a-b6d9-4698-8593-402ba2b2fb40" />
+<img width="940" alt="Screenshot 2025-04-27 023148" src="https://github.com/user-attachments/assets/098eac4e-6677-417f-9ee2-ada3a9c3e1a8" />
+<img width="940" alt="Screenshot 2025-04-27 023207" src="https://github.com/user-attachments/assets/f260149b-1e5b-4e1d-a679-2721d36dbcd4" />
+
+
 # DevNow - Modern Software Development Company Website
 
 A bright, modern, 2025-style website for a B2B software development company. This project is a complete redesign of the DevNow website showcasing their services and expertise.
